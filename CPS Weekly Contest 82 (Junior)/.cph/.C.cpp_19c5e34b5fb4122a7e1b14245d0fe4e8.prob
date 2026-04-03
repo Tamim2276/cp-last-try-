@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\tam1m\\Desktop\\cp\\CPS Weekly Contest 82 (Junior)\\C.cpp","tests":[{"id":1775222032112,"input":"3\n5 2\n7 0 1 4 2\n4 100\n1 0 2 0\n4 3\n1 1 0 2\n","output":"YES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tam1m\\Desktop\\cp\\CPS Weekly Contest 82 (Junior)\\C.cpp","group":"local","local":true}
