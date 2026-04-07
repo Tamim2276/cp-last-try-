@@ -17,10 +17,18 @@ void solve()
         cin >> x;
         sum += x;
     }
-    if (sum > m && sum >= n)
-        cout << YES << endl;
-    else
+    if (sum < n)
+    {
         cout << NO << endl;
+    }
+    else if (m == 0 && sum % n != 0)
+    {
+        cout << NO << endl;
+    }
+    else
+    {
+        cout << YES << endl;
+    }
 }
 int main()
 {
